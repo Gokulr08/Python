@@ -16,7 +16,7 @@ num2 = input()
 
 # print
 print(num1 + num2)
-5
+
 # taking multiple input at a time from user
 # using split()
 x, y = input("Enter two values: ").split()
