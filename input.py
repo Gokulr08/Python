@@ -11,11 +11,11 @@ print("Value for a is:",num," ",type(num))
 print("your name is",name," ",type(name))
 
 # input from console
-num1 = input()
-num2 = input()
+n1 = input()
+n2 = input()
 
 # print
-print(num1 + num2)
+print(n1 + n2)
 
 # taking multiple input at a time from user
 # using split()
