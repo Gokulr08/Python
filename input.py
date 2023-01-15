@@ -30,7 +30,7 @@ print("first number is {} and second number is {}".format(x, y))
 
 # using list()
 numbers = list(map(int, input("Enter numbers:").split()))
-print("List of boys:", x)
+print("List of boys:", numbers)
 
 # taking multiple values 
 # using list comprehension
