@@ -35,5 +35,21 @@ print("After flush()", filecontent)
 fileobject.close()
 
 
+# end parameter
+print("My name is Gokul...",end="") # it will print without space
+print("I'm coming from thanjavur")
 
+# end parameter
+print("My name is Gokul...",end=" ") # it will print with space
+print("I'm coming from thanjavur")
 
+# another example for end parameter
+print("gokul08r",end = '@')
+print("gmail.com")
+
+# example
+print("Gokul",end = 'R')
+
+# example with sep parameter
+print("Gokul", "R",sep = '')
+print("Gokul", "R",sep = '.')
