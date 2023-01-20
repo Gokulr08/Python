@@ -26,3 +26,10 @@ print('Chennai' in d)
 
 # check if not
 print("gokul" not in d)
+
+# modify strings
+a = ' gokul R'
+print(a.upper())
+print(a.lower())
+print(a.strip())
+print(a.replace('g','q'))
